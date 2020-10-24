@@ -3,6 +3,9 @@
 
 ## The Official List of Repositories from ACM PESU ECC for HackNight 2.0, celebrating Hacktoberfest 2020.
 
+### **NEW REPO:** [Breaking News!](https://github.com/acmpesuecc/breaking-news). 
+Topics: React.js
+
 
 ### [ACM PESU ECC Website](https://github.com/acmpesuecc/acmpesuecc.github.io)
 Topics: Web development, javascript, HTML, CSS
